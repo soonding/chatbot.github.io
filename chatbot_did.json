@@ -1,0 +1,17 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:soonding.github.io:chatbot",
+  "verificationMethod": [{
+    "id": "did:web:soonding.github.io:chatbot#owner",
+    "type": "JsonWebKey2020",
+    "controller": "did:web:soonding.github.io:chatbot",
+    "publicKeyJwk": {
+      "kty": "EC",
+      "crv": "secp256k1",
+      "x": "eUatte3RZifqU36uStxJjaEx9L4HD+yDeI75bEme93Y=",
+      "y": "Hgpk6OXH/gjAL4w9sGwJQSvuuqvntylpulbgO7aZgrw="
+    }
+  }],
+  "authentication": ["did:web:soonding.github.io:chatbot#owner"],
+  "assertionMethod": ["did:web:soonding.github.io:chatbot#owner"]
+}
