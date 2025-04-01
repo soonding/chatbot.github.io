@@ -8,8 +8,8 @@
     "publicKeyJwk": {
       "kty": "EC",
       "crv": "secp256k1",
-      "x": "LhhSnyRX16w0AFG8dLHGvjnCBb6IBU7ktOUYgfdtt7M=",
-      "y": "iNW2F8Wdla41wmMr7K9up9DYZvxvVYDRmUSaoo812Vk="
+      "x": "Jl00enExdLt6kmGGJVBmZYii/2D6fPns33SscxwOrXA=",
+      "y": "7iKuLoNUXd92ImTzv9hatWyXURgLv8n6dmWiyyohqyk="
     }
   }],
   "authentication": ["did:web:soonding-chatbot.github.io#owner"],
